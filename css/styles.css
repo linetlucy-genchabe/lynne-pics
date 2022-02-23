@@ -2,14 +2,20 @@
     float: left;
     margin-left: 10px;
     width: 450px;
+    box-shadow: 2px 2px 2px 2px ;
+    border: 2px solid pink;
 }
 .nature {
     float: left;
     margin-left: 10px;
     width: 450px;
+    box-shadow: 2px 2px 2px 2px ;
+    border: 2px solid pink;
 }
 .weddings {
     float: left;
     margin-left: 10px;
     width: 450px;
+    box-shadow: 2px 2px 2px 2px ;
+    border: 2px solid pink;
 }
